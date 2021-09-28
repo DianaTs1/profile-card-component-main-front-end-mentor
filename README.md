@@ -8,13 +8,10 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
+<img width="1672" alt="Screen Shot 2021-09-28 at 5 25 29 AM" src="https://user-images.githubusercontent.com/73934231/135071020-d354f0a1-41e3-442d-82f3-f2694529aec0.png">
 
-### Links
+<img width="495" alt="Screen Shot 2021-09-28 at 5 25 46 AM" src="https://user-images.githubusercontent.com/73934231/135071222-1cb18843-b052-4012-8d9c-ce4e3f005d78.png">
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
 
 ### Built with
 
