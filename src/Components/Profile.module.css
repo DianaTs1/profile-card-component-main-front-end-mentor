@@ -1,0 +1,58 @@
+.main {
+	background-color: rgb(252, 252, 252);
+	padding: 0 0 20px 0;
+	border-radius: 15px;
+	overflow: hidden;
+	position: relative;
+	max-width: 90%;
+	margin: 0;
+	display: block;
+	z-index: 99;
+}
+.img {
+	border-radius: 50%;
+	border: 5px solid rgb(255, 255, 255);
+	position: absolute;
+	width: 130px;
+	top: 125px;
+	left: 50%;
+	margin-left: -65px;
+	z-index: 100;
+}
+
+.info {
+	text-align: center;
+	margin-top: 12vh;
+}
+
+.info p {
+	margin: 20px auto;
+	color: var(--Dark-gray);
+}
+
+.info h2 {
+	margin: 20px auto;
+	font-size: 22px;
+}
+
+.info h2 span {
+	font-weight: 400;
+	color: var(--Dark-gray);
+}
+
+.background {
+	width: 100%;
+	min-height: 190px;
+	max-height: 190px;
+	overflow: hidden;
+	object-fit: cover;
+}
+
+@media screen and (min-width: 1140px) {
+	.info h2 {
+		font-size: 24px;
+	}
+	.info p {
+		font-size: 18px;
+	}
+}
